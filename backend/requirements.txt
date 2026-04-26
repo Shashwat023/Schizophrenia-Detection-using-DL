@@ -1,0 +1,8 @@
+flask
+flask-cors
+torch
+numpy
+nibabel
+python-dotenv
+groq
+Pillow

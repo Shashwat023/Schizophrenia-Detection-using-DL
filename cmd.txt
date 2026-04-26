@@ -1,0 +1,7 @@
+cd frontend
+npm run dev
+
+
+cd backend
+.\venv\Scripts\activate
+python app.py
